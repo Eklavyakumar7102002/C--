@@ -1,1 +1,0 @@
-swap(num1,num2);
